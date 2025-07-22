@@ -1,6 +1,6 @@
 # Influenz – HealthKart Influencer Campaign Dashboard
 
-[🚀 Live Demo](https://healthkart-influencer-dashboard-lqdoavfgnpfqcxz4ugfksh.streamlit.app)
+[🚀 Live Demo](https://healthkart-influencer-dashboard-lqdoavfgnpfqcxz4ugfksh.streamlit.app/)
 
 A smart, open-source dashboard to track and visualize influencer marketing performance across platforms like Instagram, YouTube, and Twitter for HealthKart and its brands such as MuscleBlaze, HKVitals, and Gritzo.
 
