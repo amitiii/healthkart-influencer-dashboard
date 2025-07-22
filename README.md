@@ -4,8 +4,7 @@
 
 A smart, open-source dashboard to track and visualize influencer marketing performance across platforms like Instagram, YouTube, and Twitter for HealthKart and its brands such as MuscleBlaze, HKVitals, and Gritzo.
 
-![Dashboard Preview](<img width="1914" height="939" alt="Screenshot 2025-07-22 170538" src="https://github.com/user-attachments/assets/1f7f64c0-30ae-4a16-a408-60608148d136" />
-)
+![Dashboard Preview](dashbd.png)
 
 ---
 
@@ -93,9 +92,8 @@ URL: [https://healthkart-influencer-dashboard-lqdoavfgnpfqcxz4ugfksh.streamlit.a
 
 ## 👩‍💻 Author
 
-**Your Name**  
+**Amiti Sharma**  
 HealthKart Intern Assignment  
-[LinkedIn](#) • [GitHub](#) • [Portfolio](#)
 
 ---
 
