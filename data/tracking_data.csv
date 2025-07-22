@@ -1,0 +1,501 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+Twitter,Campaign_1,24,4950a815-7ac8-438b-b963-929fbc6fb7b0,Protein Powder,2025-06-08,5,9860.12
+Twitter,Campaign_1,27,0326bb57-5acd-451d-be06-7477dad3eadc,Omega-3,2025-06-24,1,8985.65
+YouTube,Campaign_4,45,60c2acc9-18c6-4af9-b064-2d114a41826d,Multivitamin,2025-05-24,5,7192.79
+Instagram,Campaign_3,36,6d3a89ed-79f3-4e08-a73f-54aa06a5a133,Mass Gainer,2025-07-18,4,4597.57
+Instagram,Campaign_5,31,320ce8e3-1d4e-490b-a924-00c4febb1cd5,Multivitamin,2025-06-27,9,6709.53
+YouTube,Campaign_2,49,6dd7c009-e54d-4e0a-8531-364604f07a70,Mass Gainer,2025-07-17,10,6269.52
+Twitter,Campaign_1,35,8d25c7ba-04a7-4b21-a31a-b3fccfb47efd,Omega-3,2025-07-21,9,4624.9
+Instagram,Campaign_2,43,4d07f3ee-fd35-4de6-8d94-42ce8fa5eceb,Omega-3,2025-06-25,4,1008.78
+Instagram,Campaign_5,14,4a90ee45-e550-462b-b8f6-c4bb3de46ed4,Protein Powder,2025-07-08,7,3645.4
+Instagram,Campaign_4,49,4ff3c777-9ac5-454f-a4e9-232664e0c22a,Protein Powder,2025-06-14,5,9756.78
+YouTube,Campaign_1,16,cccc0f8b-b729-4006-9831-50af1106d28e,Protein Powder,2025-05-14,1,4388.16
+Instagram,Campaign_2,44,28071d10-c544-4f84-9564-bbe528d972dd,Omega-3,2025-07-15,4,5764.07
+Instagram,Campaign_1,49,e09f5b00-3716-4b2d-b4d6-dd1ca93c52bf,Mass Gainer,2025-05-13,8,9292.95
+YouTube,Campaign_2,39,16a74ecb-5419-4eb9-9423-79a0182314a3,Omega-3,2025-07-14,7,5631.19
+YouTube,Campaign_3,6,5d8f5e0d-1d5e-453a-ac92-3affae812828,Omega-3,2025-07-07,2,6775.68
+YouTube,Campaign_3,34,da6bc78d-65e1-4396-82fe-52000c5a94d6,Protein Powder,2025-06-10,4,3325.31
+Instagram,Campaign_4,29,ae486ac4-7f91-4c44-89b8-81482ef0402c,Multivitamin,2025-05-14,8,1411.2
+Instagram,Campaign_5,34,7905df4a-90c9-4540-a57c-8cb54dbfb000,Protein Powder,2025-04-23,10,4232.57
+YouTube,Campaign_1,46,60c68f81-dacf-44d2-8969-b0acef867b76,Multivitamin,2025-05-15,2,5721.8
+Twitter,Campaign_5,24,d9fbfa83-bbee-4b91-9071-49fd3018a02d,Mass Gainer,2025-06-12,9,5164.01
+YouTube,Campaign_2,5,43adc789-184d-4f77-b906-2cc5d5a0106f,Mass Gainer,2025-07-21,1,1017.8
+Instagram,Campaign_4,37,20f0d0c1-7678-49c5-9933-6b652312fc76,Fat Burner,2025-04-26,6,536.25
+Instagram,Campaign_3,8,73a1a204-1007-485c-ad8c-bd2ed7b6cb45,Fat Burner,2025-06-07,6,1332.47
+YouTube,Campaign_3,4,96063ea8-8315-490f-8c16-2b62bd30aa02,Fat Burner,2025-05-05,3,8327.02
+Twitter,Campaign_4,36,3e79cd7b-617e-42f0-9e6e-472decc311e4,Mass Gainer,2025-06-01,7,6438.36
+Twitter,Campaign_1,33,61124d8a-e494-461f-8d79-6779c63772cb,Protein Powder,2025-07-08,10,5063.12
+Instagram,Campaign_5,13,bd0b5eac-eb0c-4faa-9c38-b4c0837aa047,Protein Powder,2025-06-02,7,1421.38
+Twitter,Campaign_2,37,6c113efb-f0cf-44dc-b06c-2e4dc8a307f5,Protein Powder,2025-06-21,6,2466.05
+Twitter,Campaign_5,35,04020340-8d01-490d-8b4c-e129f15b8d2e,Omega-3,2025-06-04,9,6562.81
+Twitter,Campaign_3,10,fa1101be-c5e0-4a4b-ad7f-cdd164ae198d,Fat Burner,2025-04-27,3,9782.05
+YouTube,Campaign_4,11,d0c74d50-42ac-4b12-ad80-95e6413c6fbb,Protein Powder,2025-06-27,8,4998.92
+Instagram,Campaign_3,21,dfa04eea-e8e8-48fa-be68-c05881908ba2,Fat Burner,2025-04-25,2,1597.33
+YouTube,Campaign_3,34,abb03ee4-89a2-41ae-88ad-8c6c4d797e5f,Fat Burner,2025-05-21,1,7956.33
+Twitter,Campaign_2,29,df94b4fb-482c-4988-be45-daf11bb95646,Omega-3,2025-05-31,10,4973.97
+Instagram,Campaign_1,8,9970bb64-f2e0-47d2-bb40-3a1723982b59,Mass Gainer,2025-07-17,2,9001.34
+YouTube,Campaign_1,44,77e3d5b7-8cff-4ba4-b886-29e11e067b03,Protein Powder,2025-06-27,1,3017.54
+Instagram,Campaign_2,14,27c94af7-d17f-4a25-8ccf-92e7c6a04239,Omega-3,2025-04-30,5,6597.73
+YouTube,Campaign_4,46,f4a29cd7-b067-466b-af01-26c8b13e793e,Mass Gainer,2025-06-13,4,4181.51
+Instagram,Campaign_5,38,ed988cc8-e5dc-45ef-9048-f666e5b15d04,Mass Gainer,2025-05-27,1,4024.69
+YouTube,Campaign_4,32,ade15428-ff7a-48db-b36a-ee4c878d1dcc,Protein Powder,2025-06-07,1,4123.73
+Twitter,Campaign_5,6,c32c6ef7-1007-4d29-9b85-ad0839d3508f,Fat Burner,2025-06-17,7,2272.54
+YouTube,Campaign_1,33,55852c73-16b9-40f6-9297-ebe98c5ba00f,Multivitamin,2025-06-24,9,923.86
+Twitter,Campaign_3,29,beaf86e5-3da6-4fc5-8d25-e87b061971f0,Fat Burner,2025-06-02,5,4677.53
+YouTube,Campaign_3,4,91183c34-b58e-4c86-a31e-13c31dbe792e,Fat Burner,2025-07-19,9,3002.31
+Twitter,Campaign_4,30,b929b20b-7552-49e6-bfdd-94538df2ee4f,Multivitamin,2025-05-08,7,8452.25
+Twitter,Campaign_2,9,9bed5d8f-43a7-4115-8a33-95551f94949b,Mass Gainer,2025-06-14,7,5860.34
+YouTube,Campaign_5,33,859cae6d-f656-4e93-8b5a-cd150b2db43a,Multivitamin,2025-06-03,7,1935.74
+YouTube,Campaign_3,27,edd3787b-e770-4a3a-ac3f-03556c2b2584,Multivitamin,2025-07-08,2,7116.47
+Instagram,Campaign_4,30,671382f2-cfad-4e6a-953e-58dde026cba3,Omega-3,2025-05-10,9,1418.67
+YouTube,Campaign_2,37,14c17b37-8e5d-4242-9465-f9144737c72a,Omega-3,2025-05-21,9,6847.34
+Instagram,Campaign_1,4,ac09e202-35e2-41c7-b3b9-c5b140b94741,Omega-3,2025-05-09,10,8177.71
+YouTube,Campaign_2,36,e6c71042-38a0-40ea-909e-3e381e7bdf6b,Mass Gainer,2025-06-30,3,4432.87
+Instagram,Campaign_1,30,9455d09f-6fbb-4435-a2d7-9bac1ab1af8b,Multivitamin,2025-05-29,5,7686.34
+Twitter,Campaign_4,44,cef0ca43-4782-4c3f-bc28-cae799a1dcf4,Protein Powder,2025-05-21,2,2661.37
+YouTube,Campaign_2,20,376f0d20-e66b-4216-aa7f-92e9f8b8be58,Multivitamin,2025-06-18,5,1079.35
+Twitter,Campaign_4,47,befa032d-bc10-413b-8002-ceb8f9bd8349,Mass Gainer,2025-05-16,2,4177.51
+YouTube,Campaign_1,2,bfa44ff9-22cb-4ca9-8dba-863d1c9b7dce,Omega-3,2025-07-17,9,5464.53
+Instagram,Campaign_3,26,9aa71f8b-c708-4001-9af7-078868c6c3e3,Mass Gainer,2025-06-20,4,9673.46
+YouTube,Campaign_3,17,c49be687-c5d3-4847-bc70-c7a4cc2ba51a,Omega-3,2025-06-02,3,7027.15
+Instagram,Campaign_1,1,bad0453a-6fe9-48b3-ae0f-614772c5fdb9,Mass Gainer,2025-06-12,9,9395.43
+Instagram,Campaign_5,48,48130d01-d5d4-458a-9686-a8a182baa885,Protein Powder,2025-06-11,6,5940.79
+YouTube,Campaign_5,14,23a935b8-5aac-4369-916d-a2f753c4b422,Omega-3,2025-05-11,7,2738.6
+Twitter,Campaign_3,38,a5033817-7a4b-4144-bd4a-b39f4dfb38cb,Omega-3,2025-07-16,10,3339.1
+YouTube,Campaign_3,5,0bc52805-e0a1-4d71-8a3e-cb3a025e68c7,Multivitamin,2025-05-18,2,4250.64
+Twitter,Campaign_2,3,cfd8117d-1e58-4c34-8eb3-47c73d720701,Mass Gainer,2025-05-09,5,8612.43
+Instagram,Campaign_2,28,1a27698c-cbe9-4408-a0a1-7bb370c3371a,Fat Burner,2025-06-03,7,829.92
+YouTube,Campaign_3,23,1fc59b6c-35b1-425a-b70d-059f537806e3,Fat Burner,2025-05-26,4,5926.59
+YouTube,Campaign_5,45,266dfb3c-7da5-4d09-8c05-41215d879d7f,Multivitamin,2025-07-03,1,5409.77
+Twitter,Campaign_2,5,05975ae2-a77b-44db-8d9b-8a5b641ea4be,Mass Gainer,2025-05-30,4,5929.11
+YouTube,Campaign_1,35,a26d9192-98a0-4a89-a023-1c944e45610e,Protein Powder,2025-05-20,2,9836.17
+Instagram,Campaign_2,4,ab901218-764d-44b2-b433-910796032a9b,Multivitamin,2025-05-06,7,1900.75
+YouTube,Campaign_2,5,4ff3b63e-f3bd-4da2-877d-4b4e3052fc1c,Omega-3,2025-05-09,2,9517.92
+Instagram,Campaign_2,31,fa028c8d-2c51-4178-987f-45475e9bc36e,Protein Powder,2025-07-05,8,4765.88
+Instagram,Campaign_4,3,f29fb6b0-75c5-4f7f-8b7e-76245ee4f753,Mass Gainer,2025-06-06,10,9516.08
+Twitter,Campaign_1,19,4ae6c3aa-8a95-4584-8e5d-2d1211916f1e,Omega-3,2025-07-18,10,2088.07
+Twitter,Campaign_3,27,22769b61-1956-43ba-8942-b3457a8c2774,Fat Burner,2025-06-02,1,2512.96
+Instagram,Campaign_5,12,1b7db5c5-8a7d-48c5-a3aa-e0700cad48c9,Mass Gainer,2025-07-02,5,2330.9
+Twitter,Campaign_5,50,ae0393e7-6fdf-4769-8fc7-3017027246a2,Omega-3,2025-06-25,3,905.42
+Twitter,Campaign_3,9,ba187ec3-2b8b-4f21-a1b1-4a04e3927f40,Mass Gainer,2025-06-11,2,1244.5
+Instagram,Campaign_4,50,35cacd0f-e8bc-4c88-aba6-b07cde9d1e0c,Omega-3,2025-07-16,1,6989.69
+YouTube,Campaign_5,42,0a0bcb43-0512-4d00-94a6-a924fe89627e,Mass Gainer,2025-07-14,3,2418.23
+YouTube,Campaign_2,47,35eaa8a3-4a25-426f-8d04-07d15de97a3f,Fat Burner,2025-07-13,1,8314.36
+Twitter,Campaign_5,42,cd70c49e-c259-4dd3-bfd5-3215dddb0cfc,Multivitamin,2025-06-30,3,1904.84
+Twitter,Campaign_1,27,8dd64111-eca7-49f6-945c-4ab09819c7ce,Omega-3,2025-05-26,8,6152.95
+Instagram,Campaign_1,24,d86501b4-c23b-418b-964b-c94a80ad30b7,Omega-3,2025-06-28,6,3537.62
+Instagram,Campaign_3,25,bb28b7a6-0f77-490c-9711-d273b8955b05,Fat Burner,2025-04-28,9,7407.48
+Instagram,Campaign_4,29,fccc3f18-8f84-450f-8865-570bb4c40f59,Multivitamin,2025-04-30,9,8169.76
+Instagram,Campaign_4,25,8ca5bcdc-c5e6-4492-be70-149e2c6daea1,Mass Gainer,2025-06-13,5,1326.76
+YouTube,Campaign_5,25,d1dbf14e-cb74-4eda-acb3-016142c4704e,Omega-3,2025-05-05,3,5785.46
+Instagram,Campaign_4,6,f591e543-2008-4a1d-8416-ab53042141af,Multivitamin,2025-06-13,6,5744.51
+Instagram,Campaign_4,44,e3955479-b117-4707-a0ee-42d6743baec3,Mass Gainer,2025-07-21,3,8637.93
+Twitter,Campaign_5,43,95b77ad1-1a47-4448-bec4-61d73b2aaf37,Omega-3,2025-06-02,5,5437.04
+Instagram,Campaign_1,35,9ab74e03-982c-4fd1-b894-7ab1942a9af4,Omega-3,2025-06-28,2,9213.04
+Twitter,Campaign_2,9,b986178e-b2fb-4e8a-bdc1-074f87c47b1f,Mass Gainer,2025-07-13,1,617.46
+Instagram,Campaign_3,42,769f8dd1-cc4b-44fe-ba7c-2741c0b19564,Fat Burner,2025-06-27,6,7153.92
+Instagram,Campaign_1,23,04f99667-4844-42ce-a42d-f02470ffa664,Multivitamin,2025-05-30,7,6081.97
+Twitter,Campaign_4,8,074d3046-642d-4e54-b0f5-eac751f37edf,Omega-3,2025-04-29,5,7926.01
+YouTube,Campaign_4,12,c552606a-b167-4274-ba72-3222712126ba,Mass Gainer,2025-05-30,9,1568.93
+YouTube,Campaign_5,35,6d5b4b12-c80f-422e-b9f6-61279e33673e,Omega-3,2025-05-09,2,1921.6
+Twitter,Campaign_3,26,66d12189-5626-4bf9-91eb-cd0df7341138,Mass Gainer,2025-07-15,5,5882.64
+Twitter,Campaign_2,34,65393b5c-061f-47d9-ad4f-0d87d85db9b5,Omega-3,2025-05-28,10,6035.43
+YouTube,Campaign_5,9,9418888a-d3e6-45d2-ba5d-b5059a3a30af,Protein Powder,2025-07-18,2,9665.9
+Twitter,Campaign_5,47,0c13b056-7136-4c7f-a66e-64ebe446d7e0,Fat Burner,2025-06-16,8,1451.94
+Twitter,Campaign_2,15,c64a61cd-9f42-4708-8eb3-e8be31f9d99e,Multivitamin,2025-06-09,8,1503.53
+Twitter,Campaign_2,1,1d1a23f2-9406-4304-a29c-4370cd18234e,Fat Burner,2025-06-24,9,7905.67
+Twitter,Campaign_4,49,ef7547c6-eb99-46cd-9cd7-f9a6283317f2,Fat Burner,2025-05-27,6,7964.58
+Twitter,Campaign_5,2,8d9443d7-549e-4674-98cd-437fe4c779bc,Multivitamin,2025-06-18,1,8741.02
+YouTube,Campaign_1,20,aab2a53d-3dce-459d-917b-e36960ef000d,Fat Burner,2025-06-02,8,8861.29
+Twitter,Campaign_1,30,1196c0f6-d1ec-4a11-b3ca-2a4cec464f1d,Protein Powder,2025-05-04,10,8839.99
+YouTube,Campaign_5,44,9c5306a7-a60f-4b00-a247-94793bbed84a,Mass Gainer,2025-05-31,3,3009.3
+Instagram,Campaign_2,47,eac046c9-dac8-44c2-b92f-3060d98bf0b0,Multivitamin,2025-05-21,6,6720.48
+YouTube,Campaign_3,35,83e5a0ed-577e-4b9e-b4a1-1657dc3f38af,Mass Gainer,2025-07-15,3,5934.22
+Instagram,Campaign_2,28,54f8ae29-b043-4a5a-a51d-203640b81082,Omega-3,2025-05-30,5,4993.94
+YouTube,Campaign_2,35,0d1d4d4f-13d7-4c79-91cb-5fec0b9685e0,Protein Powder,2025-06-25,2,2135.9
+YouTube,Campaign_3,25,b1d89fba-cf54-47df-8891-03d5c12c82a9,Mass Gainer,2025-05-10,10,4328.25
+Twitter,Campaign_2,15,64a97a35-c521-46ba-9533-610e844b196e,Mass Gainer,2025-04-29,2,6373.32
+YouTube,Campaign_3,16,00815764-a065-4e82-98b0-ecc14f93c72d,Multivitamin,2025-07-17,4,6967.72
+YouTube,Campaign_5,30,e71dbdba-9e1b-4be9-8ec9-a275bf10a348,Omega-3,2025-07-21,9,4316.34
+Twitter,Campaign_3,23,b8f8cffc-8b04-4869-a22b-43256dfd1623,Multivitamin,2025-05-29,1,4260.03
+Instagram,Campaign_1,10,37c30b5f-7dd9-4669-ad35-dd63a35673e1,Omega-3,2025-06-08,1,8850.1
+YouTube,Campaign_3,18,a54ff0be-cca9-4338-9f20-7c05f41a9e5d,Multivitamin,2025-07-06,1,7059.88
+Twitter,Campaign_2,13,7b74b32c-3950-4ef1-b60b-ede7f0a22d07,Mass Gainer,2025-07-08,4,968.26
+Instagram,Campaign_5,47,49d3bfc1-b036-460a-aa2f-730086f9b5c1,Mass Gainer,2025-05-01,1,5014.57
+YouTube,Campaign_3,49,220e7062-55b1-41ef-83c2-5487d30c3054,Protein Powder,2025-05-21,8,3051.55
+YouTube,Campaign_2,8,8f624285-2344-41c8-90f7-21e825bcb8ce,Mass Gainer,2025-06-25,6,4038.19
+YouTube,Campaign_3,3,f6567f0f-f372-43fb-97aa-5ee13a16f140,Fat Burner,2025-05-05,7,3709.73
+Instagram,Campaign_5,43,d0e1bf11-0709-4f60-90da-961770a7a732,Mass Gainer,2025-07-13,3,8039.69
+Instagram,Campaign_5,27,8dc3864d-04c1-4f20-a6db-c101850d2b58,Fat Burner,2025-07-19,3,3454.02
+YouTube,Campaign_1,40,c615b8c5-a7a2-44c4-936a-850c31c87e51,Mass Gainer,2025-07-06,1,8507.04
+YouTube,Campaign_5,50,c34dfc31-f91a-44bc-b96c-fc1bdffd010f,Fat Burner,2025-06-09,9,8653.23
+Instagram,Campaign_2,2,2837af66-49a7-43f2-a904-b17807fa178d,Fat Burner,2025-04-27,7,7006.09
+Twitter,Campaign_5,16,6bc234ec-f3df-43a4-8719-b7a34a08083e,Mass Gainer,2025-06-03,4,9738.72
+Instagram,Campaign_5,14,8c4b7856-cfcc-4d48-afd8-81f2f70e287d,Fat Burner,2025-06-05,6,2665.6
+Twitter,Campaign_2,5,7f810f2a-364d-4af9-9e0a-d605ed56214d,Protein Powder,2025-06-09,4,3354.56
+Twitter,Campaign_2,7,da9ed080-cd44-47ff-a704-e6edf94f7c15,Omega-3,2025-06-20,7,7565.37
+Twitter,Campaign_5,39,ecdf9030-196a-4a67-9a90-da491d7a42a3,Fat Burner,2025-04-29,6,7853.29
+YouTube,Campaign_5,3,26ef3ef2-0516-4b79-962c-70491e56eff1,Fat Burner,2025-06-09,5,3548.25
+YouTube,Campaign_3,29,c764b5e0-8fd8-4efc-b019-ad1b7a5126ea,Protein Powder,2025-06-06,2,7423.59
+Twitter,Campaign_5,39,04b589b5-ac20-4a5b-9326-f71ec184ff74,Protein Powder,2025-05-13,10,6247.3
+Twitter,Campaign_1,44,6e270006-ed0a-4517-a594-0e2ce62bce86,Multivitamin,2025-06-05,6,1348.23
+Twitter,Campaign_1,46,cdb4037c-dc53-4d32-8613-469bbc21e9a3,Omega-3,2025-07-12,2,4696.31
+Instagram,Campaign_1,4,e4129bcc-b7e4-4235-af4a-bae3a5dfeede,Multivitamin,2025-05-26,9,9177.61
+YouTube,Campaign_1,16,f8b7d58d-f826-4007-9b22-d63a3062872b,Fat Burner,2025-06-16,1,4368.12
+Twitter,Campaign_5,48,0520a8fb-f781-4e08-b8fb-bbe59a8a8158,Protein Powder,2025-06-03,3,5102.37
+Twitter,Campaign_3,3,8e3d092e-0149-4894-9518-aaa7095cf06a,Fat Burner,2025-05-26,4,5406.76
+Instagram,Campaign_2,26,6f981da0-bbf0-45e1-8702-5958afde9321,Mass Gainer,2025-05-01,9,4052.15
+YouTube,Campaign_5,29,2b6a311f-f833-4616-b655-ac5dd80eb088,Omega-3,2025-07-10,1,1033.96
+Twitter,Campaign_4,15,dd552d25-59cc-4ef2-a27b-633423b7ea12,Mass Gainer,2025-07-02,7,8019.16
+YouTube,Campaign_5,35,53e955a4-9f15-4992-893a-ea7de9a6e37e,Protein Powder,2025-05-04,2,1123.36
+Twitter,Campaign_1,14,172e3d40-01fb-441a-aa62-4dda7f5467ac,Protein Powder,2025-07-12,8,7240.91
+Instagram,Campaign_4,49,1262b240-04c9-45b6-bc95-1644b96a1014,Protein Powder,2025-06-10,5,4332.16
+Instagram,Campaign_5,50,c8eb7c0f-5094-45d9-9d5b-de5e87d56836,Omega-3,2025-06-28,5,7914.91
+YouTube,Campaign_3,4,153d479c-dd39-4241-afcf-453e6fe27166,Multivitamin,2025-05-23,6,5480.72
+Instagram,Campaign_3,9,7bccac81-7c50-43d9-91c3-adf40723bcd6,Fat Burner,2025-05-14,2,5902.39
+YouTube,Campaign_4,33,e4563420-abda-4ccf-96a0-c18b8425db06,Fat Burner,2025-04-25,9,2150.5
+Twitter,Campaign_2,19,6ec1f3d0-5b7e-4dc6-be80-6a6d263456fa,Fat Burner,2025-06-23,8,8814.22
+Instagram,Campaign_4,15,3d8e76f5-afd4-4be1-bdf3-f699ce912570,Fat Burner,2025-05-28,1,2406.9
+Twitter,Campaign_3,47,0e8815f4-997d-4c02-9b30-28c5baa36007,Fat Burner,2025-05-15,6,1047.46
+Twitter,Campaign_4,37,83dfef82-1d62-49a1-b6b0-f7aa24f00763,Multivitamin,2025-07-11,4,814.17
+Instagram,Campaign_1,21,d3e7d92d-a846-48d2-adfd-6b3e0f7ab95c,Mass Gainer,2025-07-03,5,980.31
+Instagram,Campaign_1,37,6d7b67f0-8e7c-49f0-905b-b7e2139d26ba,Omega-3,2025-05-30,10,3923.56
+Instagram,Campaign_2,39,87608be7-404e-4419-8a8c-734aad44a383,Mass Gainer,2025-07-07,5,2391.54
+Twitter,Campaign_4,50,29f838bb-6cbb-498c-8cc7-a757f92b0c8d,Mass Gainer,2025-04-28,10,3999.34
+YouTube,Campaign_4,44,3eb3bb45-e5ce-4056-b46c-37ddb07f3146,Fat Burner,2025-06-02,4,4910.08
+YouTube,Campaign_4,21,fb4863d7-7477-41f5-9fb6-ea35ab5c5c6a,Fat Burner,2025-05-23,8,4270.95
+Twitter,Campaign_4,16,fde4937b-1f20-4c97-a0eb-ca2ff5b18bdc,Multivitamin,2025-05-20,6,9269.2
+Twitter,Campaign_2,20,db9d5480-cd94-45c3-9f90-7281882f0572,Omega-3,2025-06-21,10,6971.16
+Twitter,Campaign_3,10,88872df9-65c8-4f8a-a875-e2476c15aa39,Protein Powder,2025-05-17,8,2798.41
+Instagram,Campaign_5,43,d949b76b-70f4-4133-a0f2-b840626263b3,Mass Gainer,2025-05-01,4,5143.47
+YouTube,Campaign_2,34,5371a754-9fee-4494-9e9f-6cbba7aeb6ce,Protein Powder,2025-06-28,9,4737.98
+YouTube,Campaign_3,15,ef91b2e6-a09e-4e51-8be1-aa023a6e3928,Omega-3,2025-06-22,4,9624.94
+YouTube,Campaign_3,27,da8a9a5f-7600-4307-8d40-aee46b84fac6,Mass Gainer,2025-06-23,3,5008.53
+YouTube,Campaign_3,20,f72a943d-e147-4b2c-ac7e-88745b8e42b2,Protein Powder,2025-05-15,1,5737.67
+YouTube,Campaign_4,18,0b26abce-b2f4-4ef5-a6f2-9e57a65ee90f,Protein Powder,2025-07-11,7,3770.37
+YouTube,Campaign_2,4,f98b4deb-f0ea-4f9f-bedc-8aa88e2076b4,Multivitamin,2025-06-26,1,8457.71
+Twitter,Campaign_3,36,1f48faec-0a92-4858-9684-8875b32981d5,Omega-3,2025-04-26,4,2957.27
+Twitter,Campaign_5,38,d1c014bb-6d6d-4ec5-97e4-6954b0901701,Omega-3,2025-05-17,9,8393.27
+Instagram,Campaign_5,48,12fb42c5-2f28-4319-bcf1-21c3473bacd7,Omega-3,2025-04-25,6,1358.72
+Twitter,Campaign_1,12,b508aa1a-d2b7-4f2a-aad4-c97e5a6b69d0,Mass Gainer,2025-06-13,1,760.78
+Twitter,Campaign_3,41,184577a5-2742-41b1-98fe-285de2f75cc5,Multivitamin,2025-06-11,6,971.68
+YouTube,Campaign_2,44,bf766e5f-9bbc-4375-a4e5-612d53187d6a,Fat Burner,2025-05-12,1,8611.3
+Instagram,Campaign_4,28,84b84fae-ee95-44d6-8aff-35f2b402ab06,Mass Gainer,2025-05-05,7,7908.39
+YouTube,Campaign_1,36,e1534ce1-75a5-4bcd-8e4b-6b085270a2b9,Omega-3,2025-06-26,5,2536.03
+Instagram,Campaign_3,32,b69b7648-9384-40f7-ac9d-3032c936498e,Mass Gainer,2025-07-09,2,2602.84
+Twitter,Campaign_4,4,e8f9b487-434a-44cf-9662-6feed531e086,Protein Powder,2025-06-30,4,2638.56
+Twitter,Campaign_2,23,9b4c52d9-2bc4-45e5-968b-d49eb11c7756,Mass Gainer,2025-05-14,9,2463.94
+YouTube,Campaign_2,42,f2610e88-b133-4117-97d5-0bda30ff90bc,Mass Gainer,2025-05-04,4,6690.08
+YouTube,Campaign_1,43,7929077f-422a-4ca9-abf3-3a0755ed446a,Omega-3,2025-06-24,7,5376.17
+YouTube,Campaign_1,25,c365707a-3912-4a5c-ab50-08ad2f34534b,Protein Powder,2025-05-16,8,8713.98
+Twitter,Campaign_3,34,c7ff77f8-c5ec-4e30-bf17-a1364555c4a8,Omega-3,2025-05-11,1,9687.81
+Twitter,Campaign_4,21,78ae42ac-c51f-4311-b35f-ce88195c013a,Protein Powder,2025-05-26,3,6980.9
+Twitter,Campaign_5,45,96161df0-9313-424d-8add-b694bc60669d,Protein Powder,2025-07-15,5,5003.92
+Instagram,Campaign_4,27,c1d25ba1-d932-4d89-ac33-948c116a7d5d,Protein Powder,2025-05-13,2,1756.98
+YouTube,Campaign_2,27,df91a5ae-2d7b-4128-95db-e6f39f3951c1,Omega-3,2025-06-23,1,2145.41
+Instagram,Campaign_2,10,0d197b84-3066-4f3e-9ca7-b5260a9f02c9,Protein Powder,2025-04-27,4,8108.22
+Twitter,Campaign_3,20,a4346dbc-b753-4ee4-a504-2ad0305e830b,Multivitamin,2025-06-29,9,2625.82
+Twitter,Campaign_5,25,4bb87189-2431-45d4-b434-aa850bc34544,Multivitamin,2025-04-23,7,6279.27
+Instagram,Campaign_3,12,f28e5eb1-35a7-4038-a433-fd860c7407ed,Fat Burner,2025-05-10,6,9458.55
+YouTube,Campaign_2,49,2a3f8edc-a231-4a2a-9529-4699e339e5af,Multivitamin,2025-05-05,8,7271.03
+YouTube,Campaign_2,35,430a6828-03ea-4eaa-9140-6bec7eb15e95,Fat Burner,2025-05-30,2,7239.0
+Twitter,Campaign_4,31,68f3fc3e-d48e-42f0-8ff4-e6cc9599e926,Multivitamin,2025-07-03,10,3116.1
+Twitter,Campaign_5,16,bf44503f-e3dc-42ec-b0a8-645bc78509ac,Omega-3,2025-05-26,2,9007.09
+Twitter,Campaign_4,15,72e824f6-34ab-4920-9fbd-b9b8f57d42e6,Fat Burner,2025-05-28,9,8590.07
+YouTube,Campaign_4,20,45f3379f-7c42-4492-a3f2-e0959b1bf2ea,Mass Gainer,2025-05-31,3,4860.48
+Instagram,Campaign_3,46,c7ec1a5f-b7ac-42c9-b2af-77e3820a2161,Mass Gainer,2025-06-03,7,2572.99
+Twitter,Campaign_4,10,9ede58f0-ac55-41c1-87a1-0f5c9cbccd13,Multivitamin,2025-06-04,2,3370.38
+Twitter,Campaign_1,30,6fc8d486-c887-4b63-9be5-3902e5d9c75b,Mass Gainer,2025-06-16,10,5446.06
+Instagram,Campaign_1,4,a1fedcef-05ef-4f9a-93fb-af9bdd053eef,Multivitamin,2025-05-28,10,6424.26
+YouTube,Campaign_4,36,af35991d-3889-4a52-bb20-0150d68c7967,Multivitamin,2025-05-27,1,6052.63
+Twitter,Campaign_5,27,b51acde3-4012-43e8-bc80-c44950ca7149,Mass Gainer,2025-05-22,7,569.8
+YouTube,Campaign_4,27,6c0fa356-9008-4f84-9d41-121272135cbb,Mass Gainer,2025-06-07,3,9994.58
+Twitter,Campaign_2,36,eadbe0b5-36cd-420f-a9bd-f689bc279876,Protein Powder,2025-05-20,4,9681.61
+YouTube,Campaign_2,34,b8abf5de-ea0f-46eb-9bef-eb2f6a36ac60,Fat Burner,2025-06-20,5,8474.09
+Instagram,Campaign_5,9,9a1aa721-a688-416c-ba10-9eb1451d3578,Multivitamin,2025-05-30,5,5833.84
+Twitter,Campaign_3,25,0f35685f-4a55-4753-ace5-6c74a3999bfa,Mass Gainer,2025-07-08,6,6140.84
+Twitter,Campaign_1,16,4eddc5e0-184b-4869-93a6-a3f4ab1444a1,Fat Burner,2025-07-08,7,3185.43
+Twitter,Campaign_1,17,43aca356-5075-470b-a26e-7aae968bbe2a,Mass Gainer,2025-05-03,6,7001.92
+Twitter,Campaign_3,14,e01e684f-e176-4b93-a8cd-8f74dcfc5e9d,Mass Gainer,2025-05-03,6,5076.51
+Twitter,Campaign_4,22,b89a3cc9-07ab-43f7-ac23-d020d4a20be7,Protein Powder,2025-05-25,8,3694.69
+Instagram,Campaign_5,42,4eceeacd-96b2-4a5a-8f60-badf99d04ec1,Multivitamin,2025-06-08,5,3126.59
+Twitter,Campaign_4,6,2df7a0d5-2ca0-4b0d-ad37-7a70746a6060,Multivitamin,2025-07-08,4,3588.8
+Twitter,Campaign_3,29,cd10a1aa-8ed0-4873-99ff-9d6ecc920bf1,Omega-3,2025-07-14,2,3130.41
+YouTube,Campaign_5,24,5b9c2458-3709-4ace-8810-be094cfdb54d,Protein Powder,2025-06-04,4,6733.14
+Twitter,Campaign_1,6,dd0341a9-2965-4de4-a276-0f0b4a8aded7,Fat Burner,2025-05-11,3,9545.78
+YouTube,Campaign_1,35,a3aa3a07-5628-4318-a561-752bee074205,Protein Powder,2025-05-02,10,6688.93
+Instagram,Campaign_4,47,4e796ff6-8bda-4a42-8b21-2c9f53c1ce8b,Fat Burner,2025-06-17,2,2289.42
+YouTube,Campaign_2,13,17689f24-1086-46d7-ae6d-d16de87487c4,Multivitamin,2025-06-29,3,5414.29
+YouTube,Campaign_3,4,37d6e2ff-2cb8-404d-9bde-7c2e98692fe8,Omega-3,2025-05-07,2,2782.87
+Instagram,Campaign_3,18,e2b42409-d6ad-4459-a01b-e2b7df749a8c,Omega-3,2025-05-15,3,1039.36
+Instagram,Campaign_4,25,645fe5fb-0a9a-4b9a-b35b-f265adaa73f5,Multivitamin,2025-07-13,8,8644.5
+YouTube,Campaign_3,44,3f9ec6b9-4fb1-46a2-b209-4053c5f73894,Mass Gainer,2025-06-13,8,8195.28
+YouTube,Campaign_1,39,9d15572b-0625-46fe-a81f-47dcacc0bbe5,Protein Powder,2025-07-12,6,4338.94
+Instagram,Campaign_4,39,0aebc249-560d-40f9-84da-c267839fcdfe,Omega-3,2025-07-20,7,3536.06
+Instagram,Campaign_1,3,aacc0831-033a-45f6-a5c2-ba681bfeb221,Mass Gainer,2025-07-02,2,1829.33
+Instagram,Campaign_5,5,76d86ba0-ad69-410a-8805-48f3f3399b05,Fat Burner,2025-05-01,9,741.83
+Instagram,Campaign_5,13,7794a273-e048-4234-bba0-3ffcf71f4b4f,Omega-3,2025-07-06,6,5225.04
+Instagram,Campaign_2,49,e4784219-cc4d-434e-94d7-173fdf1e6ee3,Fat Burner,2025-06-28,4,3308.24
+YouTube,Campaign_3,38,888a8c28-7a98-4cc1-9348-3df22dc49864,Mass Gainer,2025-07-19,8,9115.66
+Instagram,Campaign_5,47,87ebc272-5048-41f3-962d-c853a9b03698,Fat Burner,2025-07-09,5,4343.69
+Twitter,Campaign_3,43,a5c22ab4-5eb6-4e63-8523-b34330160a8c,Mass Gainer,2025-06-05,8,7498.95
+Twitter,Campaign_1,36,34632a42-0817-4e34-a0bf-10b26ba13ed8,Fat Burner,2025-05-20,5,6038.73
+Twitter,Campaign_4,14,07e98696-21d1-4632-8277-65a837bfe182,Protein Powder,2025-07-07,2,9950.16
+Twitter,Campaign_5,31,889500fb-b572-4183-8cc0-339a2772fba0,Omega-3,2025-06-15,2,8252.14
+Instagram,Campaign_4,14,9a6d8f7c-30ab-49c9-9fa7-75ce77af6ec5,Omega-3,2025-05-20,3,3760.09
+Twitter,Campaign_5,22,eb55cbc0-8cef-41db-9744-c378313188d1,Mass Gainer,2025-05-30,5,7277.01
+YouTube,Campaign_3,20,0ec15eeb-2cce-4e43-90fc-99a1b32ba351,Fat Burner,2025-05-10,10,7020.02
+Twitter,Campaign_5,1,b74c2700-7912-4b0d-8b12-3de754db9ff3,Multivitamin,2025-05-07,1,6563.98
+Instagram,Campaign_5,14,02aa6b50-d1da-4a2f-b407-4f32406ec4f7,Omega-3,2025-05-27,4,5019.48
+Twitter,Campaign_1,13,f17c84e6-10ae-4189-be4b-d976a5254769,Fat Burner,2025-05-02,6,9436.35
+YouTube,Campaign_2,48,5e49e339-5265-4f32-a65d-1301321bf790,Fat Burner,2025-05-03,3,3905.72
+Instagram,Campaign_1,8,5f892b28-693b-4dbf-a6ef-e93b710563e2,Protein Powder,2025-07-05,2,3351.85
+Instagram,Campaign_4,48,c75d035a-b059-4b38-a6be-b26e35d20a2c,Multivitamin,2025-06-11,4,2114.87
+Instagram,Campaign_3,49,242def46-7228-40f8-899f-6a714732c5a0,Omega-3,2025-05-09,6,6747.34
+Twitter,Campaign_3,31,bd167225-b053-4f25-9786-9a267f6d66c5,Protein Powder,2025-06-06,7,5803.36
+Twitter,Campaign_5,16,b6132e96-7225-42f0-a7a6-68a7b91681e2,Multivitamin,2025-06-28,9,3290.95
+Instagram,Campaign_3,45,4c522835-b9df-4e33-bb33-021baaa43d48,Omega-3,2025-06-12,1,4972.42
+Twitter,Campaign_2,39,a0831279-3dd2-4217-8600-e17f2c52fac2,Protein Powder,2025-05-11,5,7538.73
+YouTube,Campaign_2,46,e5306a39-1cec-46ff-83a5-0f6fec1b8a37,Multivitamin,2025-06-30,5,7389.27
+Instagram,Campaign_5,14,5789f8ab-5da9-45ad-889b-eca4c5013389,Omega-3,2025-07-07,3,5810.8
+YouTube,Campaign_5,26,f89fe20f-9a08-4321-a886-8a477b85fcf6,Multivitamin,2025-05-23,1,9169.94
+YouTube,Campaign_4,16,28e4f8a5-2f5c-4727-917f-78d6465c749c,Fat Burner,2025-06-29,7,9495.77
+Twitter,Campaign_5,36,44f18f4f-078f-45c3-9e0a-b675a41a89c7,Mass Gainer,2025-06-06,8,9046.12
+Twitter,Campaign_1,21,85615eee-6bef-4c2c-9d79-ddaad3411c8b,Mass Gainer,2025-06-26,9,6717.13
+Instagram,Campaign_1,50,df28d02b-3388-4557-b31c-943b1fb58e4d,Fat Burner,2025-06-17,9,2611.41
+YouTube,Campaign_1,19,ccc21de6-eee9-49a3-be5b-56c2a3eb8540,Multivitamin,2025-06-20,4,2621.62
+Twitter,Campaign_2,25,8a5c454c-b76f-465b-a056-3de47b062a64,Fat Burner,2025-05-08,2,8778.61
+YouTube,Campaign_3,30,6cb6b4c2-7ceb-48aa-83c5-e36c05c565cd,Mass Gainer,2025-06-14,8,4494.49
+Twitter,Campaign_4,35,f3d57795-8447-4907-9bba-2f41834ecdee,Mass Gainer,2025-05-03,2,8925.01
+YouTube,Campaign_5,42,b0db6d50-854f-4652-8db3-6a3cd5250157,Multivitamin,2025-05-10,3,4030.98
+Instagram,Campaign_4,23,cc44a396-97a8-4c53-9ce0-db5f3572c58e,Mass Gainer,2025-06-03,2,6062.92
+Twitter,Campaign_2,20,f5330f6e-23ef-41ba-b1c5-db73427c4c12,Fat Burner,2025-06-11,1,4905.73
+Instagram,Campaign_5,17,074d9593-3eb3-4538-b01e-fbf1beacca47,Multivitamin,2025-07-06,1,1618.92
+YouTube,Campaign_5,24,5910ea8a-748c-41d6-a2b2-7c13817a163c,Fat Burner,2025-05-16,4,1009.93
+YouTube,Campaign_2,33,970d9fcf-4080-49aa-8bb3-8e0d5fdc19a8,Multivitamin,2025-06-28,3,6526.77
+Instagram,Campaign_3,32,239e56b2-8e2a-43a3-afd6-656f45b4a574,Mass Gainer,2025-04-28,4,6012.97
+YouTube,Campaign_5,30,bcb6b7bc-5a0d-4bb2-bba7-e8f2aac0330f,Omega-3,2025-05-13,7,6396.22
+Twitter,Campaign_3,7,d77dfcbb-27f2-4534-a4ba-c2519c5c27ff,Multivitamin,2025-07-07,6,4986.09
+Twitter,Campaign_2,47,529bdb8c-304b-4d02-92a6-80d7d00c6905,Multivitamin,2025-06-06,2,2348.17
+YouTube,Campaign_4,31,f0169dfc-0476-4869-9838-c10a938d96be,Omega-3,2025-06-14,10,1638.25
+YouTube,Campaign_5,49,275cd532-b6be-4e69-95a9-e0e78b34a93b,Mass Gainer,2025-07-07,10,6966.63
+YouTube,Campaign_3,21,2b0888ad-3d37-4c4a-ab76-90e5fb371bb8,Fat Burner,2025-05-22,5,5533.47
+YouTube,Campaign_5,14,c26c53ad-ca65-45b9-acfd-eeb7bc76262b,Protein Powder,2025-06-03,2,4424.52
+Twitter,Campaign_3,24,efac27ff-aeac-4f5e-9f0c-28a6ddf4687a,Omega-3,2025-05-05,1,8773.07
+Twitter,Campaign_5,21,cacd2a90-e83c-4f2f-87c8-780c0cdf085a,Protein Powder,2025-06-22,2,1932.4
+YouTube,Campaign_5,27,b5b62744-0269-4e79-b165-b5e5dcb6609f,Mass Gainer,2025-07-05,4,9927.3
+Instagram,Campaign_5,3,728373c6-65cf-4e6f-aeee-5bb461026698,Multivitamin,2025-05-12,8,3755.36
+Instagram,Campaign_4,37,f4c41486-ac23-48d8-96a5-b098c0efcf54,Multivitamin,2025-06-09,3,9878.32
+Twitter,Campaign_5,15,5d25358a-54f8-4e6e-a427-fa672b2b7920,Mass Gainer,2025-05-04,2,8982.03
+Instagram,Campaign_3,48,60bafc3b-b2a3-4064-b0bd-68c586d8106f,Fat Burner,2025-04-25,6,9873.17
+YouTube,Campaign_4,10,921ff5b3-10cc-496c-95c4-f6772b0ec091,Fat Burner,2025-06-21,2,1860.63
+Instagram,Campaign_1,2,b8ae2317-20f5-4525-abe1-e417b3e4443e,Mass Gainer,2025-07-01,1,8692.74
+Twitter,Campaign_3,17,3a87151b-84db-462a-99cc-723495c9e5ff,Mass Gainer,2025-05-22,8,2213.39
+YouTube,Campaign_3,36,f071e487-9073-406e-93db-1b874d49956e,Mass Gainer,2025-07-09,1,1267.71
+YouTube,Campaign_1,38,3f219e17-d3fe-41a4-bbe3-60a05b717451,Mass Gainer,2025-06-02,3,3659.98
+Twitter,Campaign_4,38,a31c8eb5-99c6-4837-a053-3b53f70628ca,Mass Gainer,2025-06-12,10,9873.08
+Instagram,Campaign_5,47,ed5ed64b-f984-44a7-b962-01d3d6686eef,Mass Gainer,2025-05-07,7,3477.43
+Twitter,Campaign_3,27,f741673d-309b-46e3-bf44-2a8cc37081d1,Multivitamin,2025-05-05,7,1051.13
+Twitter,Campaign_1,19,20e71844-6d6d-482c-9471-8a82adae3f2e,Protein Powder,2025-06-05,8,4794.51
+Instagram,Campaign_5,10,67741195-d538-4ff2-a296-852d9db5dbe8,Fat Burner,2025-05-28,1,2489.13
+YouTube,Campaign_4,13,bf2c08bb-4dd4-4cfb-873d-01adabee5935,Protein Powder,2025-04-25,7,7848.65
+Instagram,Campaign_3,22,1e9e3f98-ffce-4e4d-99fb-233778beaef1,Multivitamin,2025-07-20,7,5974.65
+Instagram,Campaign_5,15,cdecff65-52d0-4702-878f-fe841463cbfd,Omega-3,2025-05-05,3,2005.13
+YouTube,Campaign_5,25,85d5470f-fed7-4e4c-a2a6-801da7ce0489,Protein Powder,2025-07-11,6,7959.5
+YouTube,Campaign_2,37,445accb1-83e8-4b11-83ce-e1ba765212ab,Omega-3,2025-05-02,4,7907.65
+Twitter,Campaign_1,16,a31693d0-fc9c-44bb-801f-0cb58d7431b7,Multivitamin,2025-07-18,3,1729.36
+Instagram,Campaign_5,32,ba6ddb2a-1d96-4610-b44d-fecad7356d41,Fat Burner,2025-04-28,5,4620.26
+YouTube,Campaign_4,36,8e95a827-d6e4-4e7e-9210-1c6dd805f867,Omega-3,2025-07-04,5,4579.39
+Instagram,Campaign_2,42,2253ca4a-02ec-4362-8fd3-fcb204f07d38,Multivitamin,2025-06-24,8,4575.74
+Instagram,Campaign_5,44,96d3bf9e-80bf-470b-971b-c4e62ee2165f,Mass Gainer,2025-05-21,3,5035.3
+YouTube,Campaign_5,22,a6148c5c-3638-4b33-8c2b-485eda723e01,Fat Burner,2025-07-17,1,544.36
+YouTube,Campaign_4,17,5043e9cc-c135-43be-b402-a96df8212e57,Mass Gainer,2025-05-03,10,5570.93
+Instagram,Campaign_2,49,ef464713-0649-4eb0-9c9b-8dda73d7361d,Fat Burner,2025-06-26,10,7441.26
+YouTube,Campaign_2,32,c967b851-387a-4c74-8387-70e6be51aef1,Fat Burner,2025-07-02,10,9525.65
+Instagram,Campaign_1,47,1aa3503f-698a-4e90-90e4-847d658ac6d9,Protein Powder,2025-07-16,4,8974.06
+YouTube,Campaign_5,42,31f9a63f-30e7-40ff-90fb-d6c67d119908,Fat Burner,2025-06-25,5,7690.05
+Twitter,Campaign_1,48,88c9b102-b262-4772-a4c5-571e37657b3b,Protein Powder,2025-06-09,8,5544.82
+YouTube,Campaign_2,32,a43fe9a4-aa56-4423-b4fa-d9232a362611,Omega-3,2025-05-11,7,670.2
+Instagram,Campaign_1,30,c8661a7b-8db4-4c67-a504-6a7db20130bd,Fat Burner,2025-07-07,9,539.18
+YouTube,Campaign_4,11,0e7f0461-6eb3-48b4-9d9d-57dfb91fb14a,Omega-3,2025-05-03,8,7469.23
+Instagram,Campaign_3,47,68b170db-4fb0-4e6e-912c-6207bdab2c34,Fat Burner,2025-07-02,1,2649.52
+YouTube,Campaign_4,23,fdb0b0c7-b910-432e-b696-572df149ae42,Protein Powder,2025-06-22,2,8831.36
+Instagram,Campaign_2,11,e71a37d6-2e52-43c3-9116-be33e28b95bc,Mass Gainer,2025-05-04,5,3464.88
+Instagram,Campaign_4,9,99ead758-0844-4870-a873-3e060700ba8a,Fat Burner,2025-04-23,7,1475.73
+YouTube,Campaign_2,47,60227529-1343-48d3-912b-1ca63e890492,Multivitamin,2025-05-21,3,5281.7
+Instagram,Campaign_4,35,a0413adc-e845-4dad-8956-8d4422f98166,Mass Gainer,2025-06-12,7,3408.09
+Twitter,Campaign_5,32,3f36454f-327b-443c-b449-1a648dfc4fe8,Protein Powder,2025-07-12,4,1120.23
+Twitter,Campaign_5,12,d248e485-e071-49d3-903a-830ce3d9e925,Multivitamin,2025-06-09,9,934.32
+YouTube,Campaign_4,35,b2700251-3466-414c-bb1b-644dcaed132a,Omega-3,2025-07-02,4,9510.4
+Instagram,Campaign_1,42,82d1529a-7580-4552-a6bd-ffc5f4d1fbb7,Protein Powder,2025-05-20,9,4831.3
+Instagram,Campaign_2,4,abd14335-f070-4591-8b61-ea40409caae4,Mass Gainer,2025-07-07,1,5442.74
+Instagram,Campaign_5,34,f0573b43-4678-4216-aaeb-7eeb8ea09006,Omega-3,2025-07-18,7,5479.12
+YouTube,Campaign_2,3,1b9b6b8b-c44d-4c59-91dc-6420d68b68d2,Omega-3,2025-07-16,6,4619.82
+YouTube,Campaign_5,5,5177ae79-2fa1-4695-86e6-e3c7e766f0d4,Protein Powder,2025-04-25,8,7024.41
+Twitter,Campaign_3,43,5de3a55b-51c4-42e8-9bb7-cfc590ad5deb,Mass Gainer,2025-07-13,9,1771.0
+Instagram,Campaign_4,4,d8fdff17-a13b-40c8-837c-90854d0b7350,Protein Powder,2025-06-15,8,9963.32
+Twitter,Campaign_5,49,8e93f584-0319-44e5-a6e2-b9f58485d994,Multivitamin,2025-06-10,6,5156.7
+YouTube,Campaign_4,1,25df6e81-0d0f-4fe7-a793-41260dc467f6,Multivitamin,2025-06-04,10,7626.1
+YouTube,Campaign_3,27,09777939-e676-4cb2-ba1b-a6f83c9067fa,Fat Burner,2025-07-03,9,2066.39
+Twitter,Campaign_2,9,e10adf2d-d6e7-44dc-8b01-52fb4da18364,Omega-3,2025-06-03,6,9115.5
+Instagram,Campaign_4,41,739058a5-5a02-4ee3-b43b-3e706755ee7a,Fat Burner,2025-06-19,7,8214.08
+Instagram,Campaign_5,15,b63e33f5-78b7-4d12-962c-6fe56726708c,Mass Gainer,2025-05-22,5,681.68
+Instagram,Campaign_3,5,39bfbe36-0ad7-4750-a5ac-95020f953fc7,Multivitamin,2025-05-09,3,2631.05
+YouTube,Campaign_5,46,cd1500e2-6920-4d6f-81b8-9d1f40c03ba1,Fat Burner,2025-05-30,1,9856.36
+Instagram,Campaign_3,10,7ada609f-6d47-433c-88e4-bf383e2fcb4e,Multivitamin,2025-05-16,6,2506.31
+Instagram,Campaign_3,1,64f04a12-5178-4b45-83fd-dda3ce9be5b4,Multivitamin,2025-06-15,10,708.18
+Twitter,Campaign_5,14,1fb9b74a-448c-47f5-8388-360263676ac3,Multivitamin,2025-05-12,4,5294.02
+Twitter,Campaign_4,33,1ce70a7c-d02c-4ff5-b986-2f95488e15ca,Protein Powder,2025-05-15,1,1670.04
+Twitter,Campaign_2,30,0a204a0f-753a-4108-a0e4-762517ff01c1,Fat Burner,2025-05-08,5,7255.55
+Twitter,Campaign_2,24,250bc0f0-69d1-4164-b76e-ab2cbc47d496,Omega-3,2025-05-02,1,8025.21
+YouTube,Campaign_3,4,96f7de87-50d1-450a-9709-e10bd1385ef4,Fat Burner,2025-07-05,8,4064.33
+Instagram,Campaign_5,40,5a860124-3ccf-420d-a404-640909d661a3,Omega-3,2025-07-14,9,6583.05
+YouTube,Campaign_3,41,e72cac64-7432-4566-9064-728e81f566b2,Fat Burner,2025-07-08,6,7826.87
+Instagram,Campaign_2,43,0c768c68-425c-40b1-ad9a-33cccbf7f3fb,Fat Burner,2025-05-12,10,6419.78
+YouTube,Campaign_3,40,a310aa71-97da-4a92-8ad6-0298f6021f51,Multivitamin,2025-06-11,4,6142.28
+Instagram,Campaign_3,31,ad76ce4d-029b-437b-8aa3-b44554917793,Omega-3,2025-06-27,3,955.62
+Instagram,Campaign_2,43,808f7084-0413-4db9-814b-09c6e48e3b3c,Omega-3,2025-05-02,2,1527.08
+Instagram,Campaign_4,32,5c6f0aa3-7d3a-4ef6-886f-82bce1eb16c0,Omega-3,2025-04-23,4,8443.14
+YouTube,Campaign_3,2,d3e30981-0ec8-48b3-b5d9-584c16a12899,Fat Burner,2025-07-15,4,958.23
+Twitter,Campaign_4,1,bdf2e110-e09b-491e-9d7d-1e6ca42e3487,Omega-3,2025-07-06,5,1600.0
+Twitter,Campaign_3,35,4bb745e3-1f53-4f56-81a3-e999836a2153,Fat Burner,2025-04-23,9,4720.99
+YouTube,Campaign_5,36,e68a861f-f108-487e-96f3-340fdd9ceec3,Protein Powder,2025-07-21,1,1674.15
+Instagram,Campaign_3,27,516d4fc8-7225-4cb6-9e16-193ab0f082d4,Multivitamin,2025-04-28,4,2901.01
+Instagram,Campaign_3,1,45fc324e-62be-47a4-bb98-5efb52d12450,Mass Gainer,2025-06-01,10,7167.75
+YouTube,Campaign_1,2,e19d5301-81ee-45b1-82a9-1c5d3ac977e0,Protein Powder,2025-06-14,7,2452.2
+Twitter,Campaign_5,34,25435aca-5e4a-4d6d-8694-a44402759417,Omega-3,2025-06-21,6,7014.53
+Twitter,Campaign_5,47,cc216303-c4cf-420b-b988-14f93779c10a,Multivitamin,2025-07-18,3,588.39
+Instagram,Campaign_4,18,be584cff-92ac-4818-937f-4e2160545429,Multivitamin,2025-06-09,3,4498.28
+Twitter,Campaign_4,35,564d7d4d-9e53-42c0-85fb-e51a489779bb,Multivitamin,2025-05-21,4,1459.31
+Twitter,Campaign_3,19,6c15f0f6-de94-4b9d-926b-d8c5577cf980,Multivitamin,2025-05-27,10,5442.94
+Twitter,Campaign_2,2,5f6b54ef-74a3-4e33-af5d-745a842de91f,Omega-3,2025-06-20,6,6416.58
+Instagram,Campaign_3,33,441f6c30-f35f-4b09-aff9-a46f089f5885,Multivitamin,2025-06-24,6,7156.9
+Twitter,Campaign_1,45,08bad908-9df2-43d6-8c93-6156c102113f,Mass Gainer,2025-05-20,10,4478.84
+Instagram,Campaign_3,44,86b58429-d512-42ea-9382-8e48f0777668,Mass Gainer,2025-06-03,1,9036.91
+YouTube,Campaign_1,28,f42cfad8-48a8-4aa5-ae0c-f5521fe56087,Multivitamin,2025-04-27,6,5360.06
+YouTube,Campaign_3,12,2cc0ad27-8fc2-4b25-b54b-435ff1380faf,Fat Burner,2025-07-01,10,6368.13
+Instagram,Campaign_4,7,a74848b1-8ce7-45f8-880d-0b609bc99e40,Omega-3,2025-06-08,10,3185.71
+Twitter,Campaign_3,7,3c30417f-2b4f-48b9-bb7e-67464fa54532,Mass Gainer,2025-06-01,3,7955.22
+YouTube,Campaign_4,34,ed0e8cad-fcf6-4528-9333-4d8590403a19,Mass Gainer,2025-06-25,10,5228.52
+Instagram,Campaign_2,10,79eafe4a-d2b1-4e23-8ecf-b962b52dd07b,Mass Gainer,2025-07-11,4,6285.52
+Twitter,Campaign_2,16,a729ff38-f6db-4fa0-9654-242352b546fc,Protein Powder,2025-07-13,8,7890.61
+YouTube,Campaign_5,13,7be89396-ae56-4682-9cbc-91acd442524c,Protein Powder,2025-07-07,9,8399.24
+Instagram,Campaign_3,40,58c87009-c56f-45a3-8cb0-48830b910f1e,Mass Gainer,2025-06-09,5,9744.64
+Twitter,Campaign_5,34,3a04f262-8642-4ea4-9f72-6eccafaf312f,Fat Burner,2025-06-07,3,3900.26
+Twitter,Campaign_3,17,6df6cd4d-2059-4f04-9377-88632863ac36,Omega-3,2025-06-03,8,4392.68
+Instagram,Campaign_2,23,1e643ddc-1719-4c59-9ed3-82d11217525f,Omega-3,2025-06-22,1,2023.55
+Twitter,Campaign_1,18,c9cd5404-9dea-476b-bcc5-ebd4eece2e40,Mass Gainer,2025-07-08,2,5707.32
+YouTube,Campaign_5,26,aa5a115b-b37e-4178-b6c1-571aa1cca78a,Mass Gainer,2025-05-15,1,9148.39
+Instagram,Campaign_5,6,2eeac406-6e8c-4d42-86b8-491425856a54,Omega-3,2025-06-25,4,7037.94
+Twitter,Campaign_2,24,ec4c9df1-faa5-4a34-8b27-d9beb715487a,Fat Burner,2025-06-16,10,5066.31
+Twitter,Campaign_2,26,da79cc7b-cf69-483f-9988-45837d3c3df4,Protein Powder,2025-06-08,4,2727.8
+Twitter,Campaign_1,30,44b33f33-1245-4d70-9a5e-91261fd35725,Protein Powder,2025-06-20,1,621.12
+Twitter,Campaign_5,37,a70661af-1b68-45b9-966c-a98e7ea9c27a,Mass Gainer,2025-07-04,9,1345.53
+Twitter,Campaign_2,16,ea1372c9-ab73-45f6-bf2a-e687e6d6ed34,Omega-3,2025-06-11,8,1549.09
+Instagram,Campaign_2,45,777f467b-d1ef-4141-84ad-1835b33d289d,Protein Powder,2025-07-02,1,5954.45
+YouTube,Campaign_1,15,01029348-7502-47e0-84fd-0be9760b2f10,Fat Burner,2025-06-24,6,5193.99
+YouTube,Campaign_1,20,5a817f17-df52-4059-806f-24197cff7388,Mass Gainer,2025-06-13,10,9519.74
+Instagram,Campaign_4,44,6d5abd65-e0f2-4e19-888f-4818e35c5fee,Multivitamin,2025-05-05,4,7905.5
+Twitter,Campaign_3,6,65069414-b67c-4c1a-a504-7cdd9c92aa90,Mass Gainer,2025-06-09,3,1212.96
+YouTube,Campaign_4,42,81c6fbf7-111f-45b8-8899-fc6cccb4a791,Multivitamin,2025-05-21,6,7373.97
+YouTube,Campaign_1,42,35b20ea7-a060-468c-9385-d1f70f35c326,Mass Gainer,2025-05-07,3,9095.4
+YouTube,Campaign_2,49,dd57b703-265d-4a74-be98-6ebbefc928ae,Omega-3,2025-06-28,6,6621.2
+Twitter,Campaign_1,3,4681b798-b541-415a-862c-a561d64306ca,Omega-3,2025-06-30,1,4839.14
+Instagram,Campaign_5,6,b2307813-8871-4311-bd32-863763d37945,Omega-3,2025-07-13,1,9784.26
+YouTube,Campaign_2,26,25e0671f-3b5c-4aef-98e8-93e14cde7a53,Omega-3,2025-07-01,3,3009.19
+Instagram,Campaign_4,25,a022becd-7b98-467d-be22-fcd6cf40a7be,Fat Burner,2025-05-12,10,975.76
+YouTube,Campaign_4,25,bb576637-afe8-4594-bdb9-e16bb2a8efdf,Fat Burner,2025-06-04,3,8225.19
+Instagram,Campaign_4,36,d224d5ba-e949-4f8d-8ef0-ed3ad7fe2176,Multivitamin,2025-05-11,2,8804.33
+Twitter,Campaign_2,31,ffdd0a0e-cb9e-482d-bf05-4da11f4e9a32,Fat Burner,2025-05-28,9,8596.36
+Twitter,Campaign_3,4,df1e0fce-5d8c-45e3-ace7-4ca394eb2f6f,Mass Gainer,2025-06-23,6,3922.04
+Twitter,Campaign_3,41,ead5d33e-d4f0-49b0-bcd1-dacaa605da41,Omega-3,2025-05-30,2,6929.28
+Instagram,Campaign_3,1,7ce32e3f-dadd-410b-a3de-ecefc7dc48fd,Protein Powder,2025-05-13,6,4546.95
+Twitter,Campaign_1,45,c26a3fee-8c5a-469f-a35a-3f601c4acf1d,Protein Powder,2025-05-24,7,1601.06
+Twitter,Campaign_1,11,c1c57f5a-5050-4ddf-878f-f666431e64ec,Protein Powder,2025-06-01,10,8586.84
+YouTube,Campaign_5,6,6d01a755-6a6d-4690-8a4d-3ac9f1c65a95,Mass Gainer,2025-05-13,2,8957.77
+Instagram,Campaign_2,32,3c16130b-8a0d-491e-a44d-6ab1fe569d6e,Protein Powder,2025-04-24,6,591.89
+Instagram,Campaign_5,28,ce04604d-6898-4717-95ff-ae5664df41b7,Protein Powder,2025-05-20,5,1814.75
+YouTube,Campaign_1,42,5d198ec2-83c0-4bb0-a86c-9da894ae42de,Multivitamin,2025-06-30,6,6648.39
+Twitter,Campaign_2,22,b191f728-a11b-414b-af57-d5f9e13b0cc6,Mass Gainer,2025-06-10,3,3622.28
+YouTube,Campaign_4,37,ef11a7f0-9225-4808-ba88-157fbb321540,Mass Gainer,2025-05-30,3,8998.01
+Twitter,Campaign_2,7,7f7d0999-4a78-4a1f-b0ca-77ea1d012e23,Protein Powder,2025-05-12,7,9573.35
+Instagram,Campaign_1,34,26578e0d-fe9c-4363-a1a6-20ef7e1bcadb,Mass Gainer,2025-05-30,8,3048.94
+Twitter,Campaign_4,3,6dbe48e5-aa8e-4b5d-93f0-b68a6d841571,Multivitamin,2025-07-05,6,7464.15
+YouTube,Campaign_4,15,f4c3bf9b-f326-47bc-940e-39f3dae845e6,Multivitamin,2025-06-16,3,4039.91
+Twitter,Campaign_2,14,2a48fe83-69a0-44b1-8a60-afa0f6d6c715,Omega-3,2025-05-30,9,3755.87
+YouTube,Campaign_3,45,289463da-986e-42bf-a164-26cde423c08d,Multivitamin,2025-06-11,10,1581.4
+Twitter,Campaign_1,37,3028eb18-37e1-4ac1-95d9-049b85e7779c,Omega-3,2025-07-03,6,4302.38
+Instagram,Campaign_1,31,095f864a-e93a-48ea-a979-d8ec2a581b53,Protein Powder,2025-06-22,4,4837.12
+Instagram,Campaign_3,18,29e0fdff-e00e-4a5d-a3a1-0f7ccaa4660a,Omega-3,2025-06-24,10,8439.23
+Instagram,Campaign_5,3,bc5182c7-6271-4c5d-8b04-b818d2375160,Omega-3,2025-06-17,3,7054.07
+Twitter,Campaign_5,5,0b94ce9e-3e87-436a-8308-8b29f74e9c02,Protein Powder,2025-05-26,7,5043.33
+YouTube,Campaign_1,44,c23f4271-ff64-4260-a2a2-153abe9e3ff2,Omega-3,2025-06-28,5,4506.53
+Instagram,Campaign_3,18,9ddfa7b1-1882-4d76-90ca-c63f8ce34fb1,Multivitamin,2025-05-14,5,8918.18
+YouTube,Campaign_3,35,a967c6c8-e0c5-44e0-b92b-dba628b71b31,Protein Powder,2025-05-07,3,2084.4
+Instagram,Campaign_4,37,652c3e65-1b10-42eb-b551-4eff5cc83914,Mass Gainer,2025-06-30,3,1758.86
+Instagram,Campaign_5,43,8ce0e673-6189-4330-8642-523fc716620e,Omega-3,2025-06-19,1,7400.91
+Instagram,Campaign_5,3,f02c54e9-f457-4a17-9cb8-f88b850a0015,Multivitamin,2025-05-17,10,9824.91
+Instagram,Campaign_4,12,bebe01e8-014b-4b1e-bd0e-705ff6497538,Mass Gainer,2025-06-03,7,8521.32
+YouTube,Campaign_2,21,bdb7b99d-cb14-46fb-84fb-6af01eca3bf5,Protein Powder,2025-06-30,10,1485.27
+YouTube,Campaign_5,2,6ecc28c8-1786-4d99-8d1c-b8852f251e94,Protein Powder,2025-04-23,1,9156.65
+Twitter,Campaign_4,14,db4302ee-73af-4190-9f54-a2711a6edbbd,Protein Powder,2025-06-21,3,5085.41
+YouTube,Campaign_3,38,2630543a-f0bf-474b-a427-31aad64dedba,Multivitamin,2025-07-19,10,5904.96
+Twitter,Campaign_2,10,d3cd723e-ea61-4ba7-ade4-1921ef6dbf79,Mass Gainer,2025-07-05,6,4662.55
+YouTube,Campaign_1,49,2d26908c-5fc0-489c-8ff8-234eaa3cadfb,Protein Powder,2025-06-10,10,6307.57
+YouTube,Campaign_3,46,3b52f404-95a0-4f04-b63c-9980322bee17,Multivitamin,2025-07-15,4,7902.06
+Instagram,Campaign_2,26,40fbd161-788d-439c-ab46-4b5664190e00,Fat Burner,2025-06-29,10,6307.9
+Twitter,Campaign_4,5,70bd1b37-54fe-4647-b923-bcf3fa2b20b7,Multivitamin,2025-05-26,2,8694.47
+Instagram,Campaign_3,20,7cb97bb0-df3e-43fd-a035-11643c2b8a5c,Fat Burner,2025-06-06,8,8859.53
+YouTube,Campaign_2,11,b5b7ebea-6e06-44c3-9d3a-55685bf18aae,Mass Gainer,2025-06-25,3,7409.15
+YouTube,Campaign_1,37,6cc0aafe-8b60-423b-a71a-b9555c808d84,Protein Powder,2025-04-24,6,8971.75
+Instagram,Campaign_3,16,94f99e60-ccc6-4653-b858-3f514e4561f0,Protein Powder,2025-05-08,2,5089.26
+Twitter,Campaign_3,37,ceaf848a-219d-4c7a-95df-d6ee8c55ea68,Omega-3,2025-07-03,4,5137.17
+YouTube,Campaign_5,25,62764dec-9e12-4702-8b8b-94a1d6ae4078,Protein Powder,2025-06-15,6,8932.14
+YouTube,Campaign_2,44,c685b8b3-391a-43c7-ba13-b8628bd8791a,Mass Gainer,2025-07-12,6,4686.53
+Instagram,Campaign_2,35,62ccbf4c-27b4-4aa0-af39-f990b87f1b22,Multivitamin,2025-05-19,3,1101.69
+YouTube,Campaign_5,22,29aad6b1-cbb6-4b9c-8cdf-62ece3d573ad,Mass Gainer,2025-05-14,2,6722.25
+YouTube,Campaign_4,25,9b285e87-f95c-4a69-b029-2efb0e4f5568,Protein Powder,2025-07-06,6,617.42
+YouTube,Campaign_4,49,3a6be3f4-b722-4fdc-a542-ba9b28e82dc8,Multivitamin,2025-07-09,8,8749.16
+Twitter,Campaign_5,48,326a75fd-fede-4c6e-b770-e264edbcf401,Mass Gainer,2025-05-15,1,5485.77
+YouTube,Campaign_3,9,96b2fb0b-3aa8-4266-9e11-5a7b07e0fc48,Protein Powder,2025-06-10,5,7564.43
+YouTube,Campaign_1,45,421c4816-63c6-4b7d-a3cf-bccbf8759f82,Protein Powder,2025-07-12,4,7375.85
+YouTube,Campaign_4,47,e3f121d4-dcd4-4198-a03d-2cf94a193d84,Protein Powder,2025-07-02,4,2627.86
+Instagram,Campaign_1,6,3e4ee71c-7a97-4bb1-b841-a6384a8fa118,Omega-3,2025-05-25,2,9579.73
+YouTube,Campaign_2,33,9e9d0c2c-0c4f-4eb0-aad1-d8f9d6043af9,Omega-3,2025-05-31,6,8794.86
+Twitter,Campaign_2,48,25dcc3a5-5cc0-42ec-a694-dc9f6ae24a1d,Omega-3,2025-05-16,5,5431.45
+YouTube,Campaign_4,23,3f7d0484-e45e-497b-ae60-cbc0e630fb7c,Multivitamin,2025-05-31,2,7038.3
+YouTube,Campaign_3,4,edd7a013-fa10-4021-8bad-867569fa5807,Mass Gainer,2025-06-28,1,6373.27
+Twitter,Campaign_2,7,031201f3-c8e4-4515-9136-a5f8b9f66dbc,Multivitamin,2025-07-08,1,4612.06
+YouTube,Campaign_1,28,3d537ea9-2335-4262-b08b-c48fbf0413a7,Multivitamin,2025-06-16,7,7403.19
+Instagram,Campaign_3,15,eb9ab899-3373-46ac-ab28-83bf83cf6bcf,Protein Powder,2025-04-23,8,5078.33
+Twitter,Campaign_4,5,866f9559-8c61-42b8-88f6-3046a84b79fc,Fat Burner,2025-06-05,7,6805.25
+YouTube,Campaign_2,22,f08c1d29-9850-4a28-867a-f73f5bbcdbc9,Fat Burner,2025-07-12,3,6593.34
+Instagram,Campaign_4,39,2e736052-f2c1-406f-8971-49fd6ffb03c2,Protein Powder,2025-06-03,7,1912.22
+YouTube,Campaign_3,50,0bb9c645-1cc3-4c69-85f3-6bdf4c27c76e,Fat Burner,2025-07-04,8,8351.16
+Twitter,Campaign_3,40,1c079d4f-abe8-4fcf-8cd7-823968f3c911,Multivitamin,2025-05-13,7,8974.59
+Instagram,Campaign_3,39,cc22dcab-9c53-4227-a1de-44f6db2aa9f3,Mass Gainer,2025-07-21,6,6322.68
+Twitter,Campaign_5,26,cd1e0265-a0a1-49ee-8aaf-406ba80f23f8,Omega-3,2025-06-14,9,610.63
+YouTube,Campaign_5,50,9d2eb450-0d78-4f44-9835-adf086236f14,Multivitamin,2025-07-12,7,9376.53
+YouTube,Campaign_1,21,32f9dac2-6acb-4b6b-92e5-74df9d559a21,Multivitamin,2025-05-03,2,5302.89
+Instagram,Campaign_3,2,98354980-7124-4a9b-8029-01cd0292d116,Mass Gainer,2025-07-02,8,4958.24
+Instagram,Campaign_3,41,b12bb34f-bb58-42ad-87d2-f109ec288a8c,Fat Burner,2025-05-09,10,5210.43
+YouTube,Campaign_2,18,feaaf5a4-f159-4021-a18f-08644eea6803,Mass Gainer,2025-06-13,4,2071.34
+Twitter,Campaign_1,29,f0c803b7-33e5-40c7-a406-5c3d1b921302,Multivitamin,2025-06-17,3,7638.59
+YouTube,Campaign_1,32,18951621-5f61-4d01-8417-1252fb2c1c27,Protein Powder,2025-06-22,8,3546.02
+YouTube,Campaign_4,15,9e0b45e9-9444-472a-9f21-434f00999258,Protein Powder,2025-04-27,2,3643.5
+YouTube,Campaign_3,23,18acfb2e-df4e-458a-b507-82cf628fec82,Multivitamin,2025-07-04,1,3142.49
+Twitter,Campaign_2,36,73d0583b-5c8b-4e51-aa5a-8bd12e25a455,Protein Powder,2025-07-21,5,5315.83
+Twitter,Campaign_4,25,d6da0212-76ed-42a2-ae9b-d6a91cf932bd,Fat Burner,2025-05-18,1,5729.71
+YouTube,Campaign_5,28,e064841f-bb79-43d6-be18-341a2f0923bb,Mass Gainer,2025-05-15,6,4097.06
+Instagram,Campaign_3,12,04c3dccc-a9cf-4ea7-b355-cc7d8fdb600d,Omega-3,2025-06-17,5,8262.48
+Twitter,Campaign_1,44,a699b309-5b6e-4b9b-a28c-1e375bdd82c6,Mass Gainer,2025-06-29,2,1248.89
+YouTube,Campaign_3,38,f1d44bed-6868-41a0-8a4e-fb7f101cce48,Omega-3,2025-06-01,2,4719.79
+YouTube,Campaign_3,43,6406de9c-5f19-419d-84d2-ddfe6c8219e9,Multivitamin,2025-07-20,6,5943.83
+YouTube,Campaign_5,25,2a6e43de-1126-42d0-a04b-6842e09b7b62,Multivitamin,2025-06-23,3,1336.19
+Instagram,Campaign_2,6,bb3bdb8f-9e9e-4d52-8681-49bb7a7b7574,Omega-3,2025-06-24,7,5235.33
+Twitter,Campaign_2,50,5a496491-c244-495f-9ff6-da314ea021f2,Protein Powder,2025-06-01,3,3502.58
+YouTube,Campaign_2,40,d976ae99-f193-4836-a16d-ecd210cc63ce,Multivitamin,2025-06-01,2,9816.37
+Twitter,Campaign_4,19,27529225-b705-4f0b-838e-fc8ed586613b,Fat Burner,2025-06-20,9,7579.77
+YouTube,Campaign_2,16,a423fc22-46c4-4522-b8d2-9babd3cb7225,Fat Burner,2025-06-01,2,668.81
+YouTube,Campaign_4,46,beba5bf8-482e-44d5-8e3f-bdaae20e1023,Fat Burner,2025-06-19,6,4332.68
+Twitter,Campaign_5,5,c7923cf0-6056-41cd-9857-0146a92fc972,Fat Burner,2025-07-13,10,840.4
