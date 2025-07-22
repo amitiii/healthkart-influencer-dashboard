@@ -2,7 +2,7 @@
 
 A smart dashboard to track and visualize influencer marketing performance across platforms (Instagram, YouTube, Twitter) for HealthKart. Built using Streamlit.
 
-![Dashboard Preview](https://github.com/your-username/healthkart-influenz-dashboard/raw/main/preview.png)
+![Dashboard Preview](https://healthkart-influencer-dashboard-lqdoavfgnpfqcxz4ugfksh.streamlit.app/#influenz-dashboard)
 
 ## 🚀 Features
 - Upload & analyze influencer campaign data
