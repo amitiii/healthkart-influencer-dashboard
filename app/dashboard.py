@@ -1,5 +1,3 @@
-# Re-running after code execution environment reset: regenerate the pro-level dashboard.py
-pro_dashboard_code = """
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -8,14 +6,14 @@ import plotly.express as px
 st.set_page_config(page_title="Influenz Dashboard", page_icon="📊", layout="wide")
 
 # Title and styling
-st.markdown(\"""
+st.markdown("""
     <style>
         .main { background-color: #f8f9fa; }
         h1 { color: #004aad; }
         h2 { color: #13547a; }
         .stMetricValue { font-size: 24px !important; }
     </style>
-\""", unsafe_allow_html=True)
+""", unsafe_allow_html=True)
 
 st.title("📊 Influenz – Influencer Campaign ROI Dashboard")
 st.markdown("A smart analytics dashboard to monitor and optimize influencer marketing campaigns across platforms.")
@@ -102,11 +100,3 @@ with tab4:
 
 st.markdown("---")
 st.caption("📍 Powered by Streamlit • HealthKart Internship Assignment • Developed by [Your Name]")
-"""
-
-# Save the file again
-pro_dashboard_path = "/mnt/data/dashboard_pro.py"
-with open(pro_dashboard_path, "w") as f:
-    f.write(pro_dashboard_code.strip())
-
-pro_dashboard_path
