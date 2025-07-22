@@ -36,4 +36,4 @@ col4.metric("ROI", f"{roi}")
 # Charts
 st.subheader("📅 Revenue Trend")
 rev_trend = filtered_tracking.groupby("date")["revenue"].sum().reset_index()
-st.plotly_chart(px.line(rev_trend, x="date", y="revenue", title="Revenue Over Time"), us
+st.plotly_chart(px.line(rev_trend, x="date", y="revenue", title="Revenue Over Time")), us
