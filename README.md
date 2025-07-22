@@ -47,7 +47,7 @@ streamlit run app/dashboard.py
 │   ├── posts.csv                 # Post-level metrics (reach, likes)
 │   ├── payouts.csv               # Payouts (post/order based)
 │   └── tracking_data.csv         # Campaign + user revenue data
-├── preview.png                   # Dashboard screenshot
+├── dashbd.png                   # Dashboard screenshot
 ├── requirements.txt              # All Python dependencies
 └── README.md                     # This file
 ```
